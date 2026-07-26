@@ -7,7 +7,7 @@
 
 ---
 
-## What I Built
+## What is YODOQ
 
 A fully-featured job queue in Go (`solution/queue.go` + `solution/wal.go`) that guarantees:
 
